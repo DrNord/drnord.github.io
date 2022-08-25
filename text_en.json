@@ -1,0 +1,38 @@
+{
+  "page_title": "Dr. Nord",
+
+  "title": "Dr.&nbsp;Nord's GitHub&nbsp;page",
+  "lang_switch": {"innerHTML": null, "title": "Включить русский язык" },
+
+  "cog": {"innerHTML": null, "title": "Settings" },
+
+  "fullscreen": {"innerHTML": null, "title": "Fullscreen switch" },
+  "switchLight": {"innerHTML": null, "title": "Dark <-> Light mode" },
+  "particles":  {"innerHTML": null, "title": "Particles switch" },
+
+  "drNord": "&copy;&nbsp;2021 Dr. Nord",
+
+  "txt_01": "&gt;&gt; Greetings, Exalting Ones!",
+  "txt_02": "&gt;&gt; You are welcome to explore available repositories:",
+  "txt_03": "Conway's Game of Life",
+  "txt_03_01": "- watch primitive cells evolve in their primitive universe;",
+  "txt_04": "Hello World in C++",
+  "txt_04_01": "- a fine example of opensource de facto standards usage;",
+
+  "txt_04_wfb": "Web frontend barehanded",
+  "txt_04_wfb_01": " - embrace the frontend web-developer way: bare handed, knowledgeless, but open minded!;",
+
+  "txt_05": "View all repos",
+  "txt_06": "&gt;&gt; Updates to this page are expected, come visit once and again.",
+  "ref_01": {"innerHTML": null, "title": "Jump to YouTube" },
+  "txt_07": "Watch",
+  "txt_08": " Nordexium on YouTube.",
+  "ref_02": {"innerHTML": null, "title": "Join via Discord" },
+  "txt_09": "Join",
+  "txt_10": " Nordexium on Discord.",
+  "ref_03": {"innerHTML": null, "title": "Dr. Nord on GitHub" },
+  "txt_11": "Visit",
+  "txt_12": " Dr. Nord's profile on GitHub.",
+
+  "dummy": ""
+}
